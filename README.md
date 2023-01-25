@@ -1,6 +1,6 @@
-#Sistema de cadastro de jogos#
+#Sistema de cadastro de jogos
 
->Status do projeto: iniciando
+> Status do projeto: iniciando
 
 Para rodar esse aplicativo, **instale** o seguinte componente:
 
