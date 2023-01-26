@@ -21,11 +21,11 @@ Esse projeto tem como objetivo o aprendizado das plataformas Git e GitHub.
 
 <h2 id="requisitos-de-software">Requisitos de software</h2>
 
-Para rodar esse aplicativo, **instale** o seguinte componente:
+Para rodar esse aplicativo, **rode** o seguinte comando:
 
 Linux:
 ```
-apt-get install java
+node app.js
 ```
 
 Windows:
