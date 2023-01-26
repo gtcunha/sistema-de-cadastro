@@ -5,7 +5,11 @@
 
 > Status do projeto: iniciando
 
-# Requisitos de software
+# Índice:
+
+* [Requisitos de software](#requisitos-de-software)
+
+<h2 id="requisitos-de-software">Requisitos de software</h2>
 
 Para rodar esse aplicativo, **instale** o seguinte componente:
 
