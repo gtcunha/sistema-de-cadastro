@@ -7,7 +7,7 @@
 
 Esse projeto tem como objetivo o aprendizado das plataformas Git e GitHub.
 
-> Status do projeto: iniciando
+> :warning: Status do projeto: em construção :warning:
 
 # Índice:
 
