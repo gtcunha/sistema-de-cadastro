@@ -9,6 +9,12 @@ Esse projeto tem como objetivo o aprendizado das plataformas Git e GitHub.
 
 > :warning: Status do projeto: em construção :warning:
 
+# ⚙️ Funcionalidades e demonstrações:
+
+- `Cadastro de Jogos`: Aqui você faz o cadastro de todos os jogos classificando pela plataforma e categoria.
+- `Atualização Cadastral`: Página de atualização dos jogos, como preço, versões, entre outros.
+- `Funcionalidade 3`: descrição da funcionalidade 3.
+
 # Índice:
 
 * [Requisitos de software](#requisitos-de-software)
